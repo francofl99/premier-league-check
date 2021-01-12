@@ -1,14 +1,14 @@
 <template>
-  <ViewContainer> </ViewContainer>
+  <MainView />
 </template>
 
 <script>
-import ViewContainer from "./views/ViewContainer";
+import MainView from "./views/MainView";
 
 export default {
   name: "App",
   components: {
-    ViewContainer,
+    MainView,
   },
 };
 </script>
