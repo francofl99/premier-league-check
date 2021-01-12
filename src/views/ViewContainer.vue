@@ -1,5 +1,5 @@
 <template>
-  <div class=" w-screen h-screen bg-gray-200 ">
+  <div class="image bg-cover w-screen h-screen ">
     <NavBar />
     <slot />
   </div>
@@ -16,4 +16,8 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+.image {
+  background-image: url("../assets/PREMIER.jpeg");
+}
+</style>
