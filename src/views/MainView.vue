@@ -2,7 +2,7 @@
   <ViewContainer>
     <div class=" grid grid-cols-5 gap-4 w-full h-9/10 p-4">
       <Container class=" w-full h-full" />
-      <Container class=" w-full h-1/2 self-center col-span-3" />
+      <Container class=" w-full  h-3/4 self-center col-span-3" />
       <Container class=" w-full h-full" />
     </div>
   </ViewContainer>

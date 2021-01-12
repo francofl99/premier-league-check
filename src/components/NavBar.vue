@@ -1,4 +1,4 @@
-<template> <div class=" h-1/10 bg-gray-400"></div> </template>
+<template> <div class=" shadow-md h-1/10 bg-gray-400"></div> </template>
 
 <script>
 export default {
